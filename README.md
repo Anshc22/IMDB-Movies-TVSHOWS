@@ -1,2 +1,6 @@
 # IMDB-Movies-TVSHOWS
-Scrapes for imdb top and lowest rated movies and tv shows.
+
+
+Saves the data into IMDB.excel
+
+where the 1,2,3 comprise the top movies,top indian movies ,top and most popular T.V shows respectively.
